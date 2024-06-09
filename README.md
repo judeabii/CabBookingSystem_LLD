@@ -16,8 +16,11 @@ The Cab Booking System is a simple application designed to facilitate rider and 
 - #### Location based cab booking
     * Calculate distances between riders and cabs.
     * Book the nearest available cab for a rider based on real-time location data.
-
+  
 The system is designed to follow the SOLID principles.
+
+#### UML Diagram
+![CabBooking.jpeg](uml%2FCabBooking.jpeg)
 
 #### Technologies Used
 - Python
